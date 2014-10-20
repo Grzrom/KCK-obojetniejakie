@@ -1,0 +1,4 @@
+KCK-obojetniejakie
+==================
+
+Projekt KCK.
